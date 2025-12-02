@@ -31,7 +31,7 @@ O **LegiTrack** é uma aplicação mobile desenvolvida para facilitar o acompanh
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/dutra-felipe/legitrack.git](https://github.com/dutra-felipe/legitrack.git)
+    git clone https://github.com/dutra-felipe/Legitrack-frontend.git
     ```
 2.  Entre na pasta:
     ```bash
