@@ -42,4 +42,8 @@ O **LegiTrack** é uma aplicação mobile desenvolvida para facilitar o acompanh
     flutter run
     ```
 
+## 📸 Video
+
 ![Demonstration-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b0488507-8d15-4b2c-ad7a-fd810fe52301)
+
+---
