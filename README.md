@@ -33,15 +33,11 @@ O **LegiTrack** é uma aplicação mobile desenvolvida para facilitar o acompanh
     ```bash
     git clone https://github.com/dutra-felipe/Legitrack-frontend.git
     ```
-2.  Entre na pasta:
-    ```bash
-    cd legitrack
-    ```
-3.  Instale as dependências:
+2.  Instale as dependências:
     ```bash
     flutter pub get
     ```
-4.  Execute o app:
+3.  Execute o app:
     ```bash
     flutter run
     ```
